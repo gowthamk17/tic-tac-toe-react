@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.square {
+  height: 5em;
+  width: 5em;
+  border-radius: 0;
+  border: 2px solid rgb(73, 73, 73);
+  font-size: 1em;
+}
